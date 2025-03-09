@@ -1,0 +1,30 @@
+.rndform-control{
+    border-radius: 5px!important
+    
+
+}
+.images-size{
+width: 300px;
+}
+.icon5-position{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: px;
+}
+.shevron1-position{
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 90px;
+
+}
+.t1{
+    color: #6a4848;
+   font-size: 100px;
+    font-family: "Dancing Script", cursive;
+}
+.t2{
+    color: #6a4848;
+    font-size: 30px;
+     font-family: "Dancing Script", cursive;
+ }
+
